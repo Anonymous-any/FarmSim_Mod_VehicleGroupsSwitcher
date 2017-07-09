@@ -38,7 +38,7 @@
 
         <!-- Tips for all users -->
         <text name="tip1"               text="Activer/désactiver un groupe en maintenant les touches modificateur et la touche du numéro du groupe (pas numpad)." />
-        <text name="tip2"               text="À pied, pressez 2 fois une touche modificateur pour afficher VeGS." />
+        <text name="tip2"               text="À pied, pressez 2 fois la touche modificateur pour afficher VeGS." />
         <text name="tip3"               text="Les touches pour VeGS peuvent être modifiés dans les Options, Commandes du jeu." />
 
         <text name="player"             text="(Joueur)" />
